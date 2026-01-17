@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.input {
+  @apply w-full border rounded-xl px-3 py-2 bg-white outline-none focus:ring-2 focus:ring-slate-200;
+}
+
+.btn {
+  @apply w-full md:w-auto px-5 py-2.5 rounded-xl bg-slate-900 text-white disabled:opacity-60;
+}

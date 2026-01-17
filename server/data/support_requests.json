@@ -1,0 +1,77 @@
+[
+  {
+    "id": "9bb783ac-cb16-4c17-a651-15bae44aae67",
+    "createdAt": "2026-01-17T15:33:32.036900+00:00",
+    "fullName": "Sam",
+    "phone": "4586798009",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "age": 26,
+    "patientRelation": "Caregiver",
+    "preferredContact": "Call",
+    "cancerType": "Lung",
+    "stage": "2",
+    "needs": [
+      "Awareness & Prevention Guidance"
+    ],
+    "symptoms": "jhkj",
+    "message": "k",
+    "urgency": "Medium",
+    "department": "Awareness & Prevention",
+    "nextAction": "Contact within 48 hours",
+    "staffSummary": "Sam, a 26-year-old caregiver from Mumbai, Maharashtra, is seeking Awareness & Prevention Guidance for a patient with Lung cancer at stage 2.",
+    "followUpQuestions": [
+      "Can you please provide more details about the patient's symptoms?",
+      "What specific guidance are you looking for regarding Awareness & Prevention?",
+      "Have you spoken to the patient about their diagnosis and treatment options?"
+    ],
+    "autoReplyDraft": "Hi Sam, thank you for reaching out to Jarurat Care. We'll get back to you soon with guidance on Awareness & Prevention for Lung cancer.",
+    "summaryText": "Jarurat Care Case Summary\nRequester: Sam | Relation: Caregiver | Age: 26\nLocation: Mumbai, Maharashtra\nContact: 4586798009 | Preferred: Call\nCancer: Lung | Stage: 2\nNeeds: Awareness & Prevention Guidance\nSymptoms: jhkj\nNotes: k\nUrgency (auto): Low\nSuggested Department (auto): Awareness & Prevention\nNext Action (auto): Contact within 48 hours",
+    "tags": [],
+    "aiProvider": "groq",
+    "aiEnabled": true
+  },
+  {
+    "id": "8ef83b9a-9f05-402a-acf4-dfe6c944bee4",
+    "createdAt": "2026-01-17T15:21:49.979556+00:00",
+    "fullName": "kjnkj",
+    "phone": "kjnh",
+    "city": "nkmn",
+    "state": "nkj",
+    "age": 23,
+    "patientRelation": "Caregiver",
+    "preferredContact": "Call",
+    "cancerType": "mnk",
+    "stage": "km",
+    "needs": [
+      "Caregiver Mentorship",
+      "Hospital Partner Connect"
+    ],
+    "symptoms": "hi",
+    "message": "hello",
+    "urgency": "Low",
+    "department": "Caregiver Mentorship",
+    "nextAction": "Contact within 48 hours",
+    "summaryText": "Jarurat Care Case Summary\nRequester: kjnkj | Relation: Caregiver | Age: 23\nLocation: nkmn, nkj\nContact: kjnh | Preferred: Call\nCancer: mnk | Stage: km\nNeeds: Caregiver Mentorship, Hospital Partner Connect\nSymptoms: hi\nNotes: hello\nUrgency (auto): Low\nSuggested Department (auto): Caregiver Mentorship\nNext Action (auto): Contact within 48 hours"
+  },
+  {
+    "id": "89c7150c-a0fc-48d5-ab08-5130055103ce",
+    "createdAt": "2026-01-17T15:16:59.436636+00:00",
+    "fullName": "string",
+    "phone": "string",
+    "city": "string",
+    "state": "string",
+    "age": 0,
+    "patientRelation": "Self",
+    "preferredContact": "WhatsApp",
+    "cancerType": "string",
+    "stage": "string",
+    "needs": [],
+    "symptoms": "string",
+    "message": "string",
+    "urgency": "Low",
+    "department": "General Support",
+    "nextAction": "Contact within 48 hours",
+    "summaryText": "Jarurat Care Case Summary\nRequester: string | Relation: Self | Age: 0\nLocation: string, string\nContact: string | Preferred: WhatsApp\nCancer: string | Stage: string\nNeeds: N/A\nSymptoms: string\nNotes: string\nUrgency (auto): Low\nSuggested Department (auto): General Support\nNext Action (auto): Contact within 48 hours"
+  }
+]
